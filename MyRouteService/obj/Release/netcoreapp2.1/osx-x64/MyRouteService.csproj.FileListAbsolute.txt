@@ -1,0 +1,17 @@
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\libhostpolicy.dylib
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\libhostfxr.dylib
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\MyRouteService
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\MyRouteService.deps.json
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\MyRouteService.runtimeconfig.json
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\MyRouteService.runtimeconfig.dev.json
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\MyRouteService.dll
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\MyRouteService.pdb
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\osx-x64\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.csprojAssemblyReference.cache
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.csproj.CoreCompileInputs.cache
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.AssemblyInfoInputs.cache
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.AssemblyInfo.cs
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.csproj.CopyComplete
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.dll
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\osx-x64\MyRouteService.pdb

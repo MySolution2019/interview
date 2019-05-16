@@ -1,0 +1,28 @@
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.deps.json
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.runtimeconfig.json
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.runtimeconfig.dev.json
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.dll
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.pdb
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\MyRouteService\bin\Release\netcoreapp2.1\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.csprojAssemblyReference.cache
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.csproj.CoreCompileInputs.cache
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.AssemblyInfoInputs.cache
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.AssemblyInfo.cs
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.csproj.CopyComplete
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.dll
+C:\Users\DAD\source\repos\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.pdb
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.deps.json
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.runtimeconfig.json
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.runtimeconfig.dev.json
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.dll
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\MyRouteService.pdb
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\to brent\MyRouteService\bin\Release\netcoreapp2.1\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.csprojAssemblyReference.cache
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.csproj.CoreCompileInputs.cache
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.AssemblyInfoInputs.cache
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.AssemblyInfo.cs
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.csproj.CopyComplete
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.dll
+C:\Users\DAD\source\repos\to brent\MyRouteService\obj\Release\netcoreapp2.1\MyRouteService.pdb
